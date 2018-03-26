@@ -19,6 +19,15 @@ padding-top: 50px;
 padding-top: 25px;	
 }
 
+.usuario
+{
+padding-top: 35px;	
+}
+
+.glyphicon1 {
+    font-size: 50px;
+}
+
 select:focus{ outline: none;}
 
 option:hover{
