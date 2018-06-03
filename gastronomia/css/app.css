@@ -15,7 +15,8 @@ div[class*="color3"]{
 }
 
 body {
-	background: url(../img/cocina.jpg);
+	background-image: url(../img/cocina.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 	background-size: cover;
-	background-opacity: 
 }
