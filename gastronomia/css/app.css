@@ -26,4 +26,13 @@ div[class*="color3"]{
 	opacity: 0.9;
 }
 
+<<<<<<< HEAD
 
+=======
+body {
+	background-image: url(../img/cocina.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+>>>>>>> 94dbf8c12060219c0c31cf5f5f6ef3fd2518ff47
