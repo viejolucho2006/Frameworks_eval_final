@@ -8,17 +8,17 @@ body {
 }
 
 .margen {
-	padding-top: 25px;
+	padding-top: 15px;
 }
 
 .margen1 {
-	padding-top: 25px;
+	padding-top: 0px;
 }
 
 .tab {
-	margin: 25px;
-	padding-top: 25px;
-	size: 100%
+	margin: 40px;
+	padding-top: 0px;
+	font-size: 200% 
 }
 
 .redondear {
