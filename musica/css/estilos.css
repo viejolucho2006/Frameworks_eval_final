@@ -1,0 +1,48 @@
+.con_estilos {
+font-size: 16px;
+background-color:#ffad69;
+color: black;
+border-radius: 0px;
+width:100%;
+}
+.division{
+height:25px;
+}
+
+.logo{
+height:120px;	
+}
+
+.img-size{
+width: 100%;	
+}
+
+.social
+{
+padding-top: 60px;	
+}
+
+.busqueda
+{
+padding-top: 25px;	
+}
+
+.usuario
+{
+padding-top: 35px;	
+}
+
+.glyphicon1 {
+    font-size: 50px;
+}
+
+select:focus{ outline: none;}
+
+option:hover{
+  color:black;
+  background-color: blue;
+}
+
+a:hover {
+  background-color: white;
+}
