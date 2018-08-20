@@ -1,11 +1,24 @@
 /* label color */
 
-body {
-	background-image: url(../img/turismo.jpg);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: cover;
+.cuadro{
+	background:#d6e6d3;
+	width:100%;
+	height: 160px;
+	position: fixed;
+	top:0px;
+	left:0px; 
+	z-index: -1;
+	
 }
+
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
 
 .margen {
 	padding-top: 15px;
@@ -25,10 +38,6 @@ body {
 	border-radius: 10%;
 }
 
-	<!--
-	background-color:#2ab8fa;
-	background-image: url(../img/turismo.jpg);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: cover;
-	-->
+.texto {
+	font-size: 3vw;
+}
